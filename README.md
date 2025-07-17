@@ -6,3 +6,4 @@ I was pissed of with the new version of the recent Dell Monitor Display buggy, s
 
 - It Should work on Windows 10/11 with .NET dependencies (should be installed automatically) and a compatible DDC/CI monitor.
 - The app is not registered, and Windows may say it's potentially dangerous to install. If you have trust issues, you can just clone the repo and build by yourself with Visual Studio 2022.
+- When checked 'Start with Windows', the app will be launched automatically and minimized into the Taskbar.
